@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-java-app
+    env: java
+    plan: free
+    buildCommand: "mvn package"  # or your specific build command
+    startCommand: "java -jar target/myapp.jar"  # Adjust as necessary
