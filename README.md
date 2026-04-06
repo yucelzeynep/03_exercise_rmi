@@ -29,7 +29,6 @@ In this exercise, you will create a simple remote method invocation application 
 4. **Run the server**:
    - On a terminal, run the server
      ```bash
-     cd src/
      java -cp ../bin RMIServer
      ```
    - You will see a message like "Library RMI Server is ready."
