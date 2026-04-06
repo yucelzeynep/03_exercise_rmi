@@ -6,7 +6,7 @@ In this exercise, you will create a simple remote method invocation application 
 #### Step-by-Step Instructions
 
 1. **Set Up Your Environment**:
-   - If you have not configures your environment to program in Java, you may need to install the Java Development Kit (JDK) and set up your environment variables (paths). 
+   - If you have not configured your environment to program in Java, you may need to install the Java Development Kit (JDK) and set up your environment variables (paths). 
 
 2. **Clone the repository**:
    - On the terminal, create a new directory (e.g. exercise_rmi) for your project and navigate into it:
