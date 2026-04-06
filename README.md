@@ -52,3 +52,7 @@ In this exercise, you will create a simple remote method invocation application 
 
    - Try borrowing and returning books. You can also start another terminal for a second client.
 
+
+#### Conclusion
+You have successfully implemented and RMI application. This exercise should have reinforced your understanding of object oriented design, inheritance, overloading, and interfaces.
+
