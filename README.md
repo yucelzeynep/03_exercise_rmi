@@ -1,4 +1,4 @@
-### Programming Exercise: Build a simple chat service 
+### Programming Exercise: Build a simple RMI application 
 
 #### Exercise Definition
 In this exercise, you will create a simple remote method invocation application in Java.
