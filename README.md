@@ -50,5 +50,5 @@ In this exercise, you will create a simple remote method invocation application 
      java -cp ../bin RMIClient getInventory
      ```
 
-   - Try borrowing and returning books. You can also start another terminal with for a second client.
+   - Try borrowing and returning books. You can also start another terminal for a second client.
 
