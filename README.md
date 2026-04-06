@@ -19,20 +19,14 @@ In this exercise, you will create a simple remote method invocation application 
      git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY  
      ```
 
-3. **Install Flask**:
-   - In the same directory, install Flask using pip. Remember that we are in a new virtual environment:
-     ```bash
-     pip install Flask
-     ```
-
-4. **Compile**:
+3. **Compile**:
    - Compile all .java files
      ```bash
      cd src/
      javac -d ../bin *.java
      ```
 
-5. **Run the server**:
+4. **Run the server**:
    - On a terminal, run the server
      ```bash
      cd src/
@@ -40,13 +34,13 @@ In this exercise, you will create a simple remote method invocation application 
      ```
    - You will see a message like "Library RMI Server is ready."
 
-6. **Start the RMI registry**:
+5. **Start the RMI registry**:
    - On another terminal, start the RMI registry
      ```bash
      rmiregistry
      ```
 
-7. **Run the client**:
+6. **Run the client**:
    - On another terminal, run the client.
      ```bash
      java -cp ../bin RMIClient     
