@@ -22,7 +22,6 @@ In this exercise, you will create a simple remote method invocation application 
 3. **Compile**:
    - Compile all .java files
      ```bash
-     cd src/
      javac -d ../bin *.java
      ```
 
